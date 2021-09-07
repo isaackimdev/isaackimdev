@@ -1,10 +1,8 @@
 ### Hi 👋
 
-#### naver blog
-https://blog.naver.com/isaac7263
+[Naver](https://blog.naver.com/isaac7263){: .btn .btn-primary}
 
-#### tistory blog
-https://lifere.tistory.com/
+[Tistory](https://lifere.tistory.com/)
 
 <!--
 **i-sak/i-sak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
