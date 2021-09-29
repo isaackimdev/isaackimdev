@@ -1,8 +1,14 @@
-### Hi 👋
+### Hi, Nice to meet you!👋
 
 [Github Page](https://i-sak.github.io/me)
+
 [Naver](https://blog.naver.com/isaac7263)
+
 [Tistory](https://lifere.tistory.com/)
+
+☎ tel. +82 10-7577-7263
+
+e-mail. isaac7263@naver.com
 
 <!--
 **i-sak/i-sak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
