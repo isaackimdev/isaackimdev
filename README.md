@@ -1,7 +1,7 @@
 ### Hi 👋
 
-[Naver](https://blog.naver.com/isaac7263){: .btn .btn-primary}
-
+[Github Page](https://i-sak.github.io/me)
+[Naver](https://blog.naver.com/isaac7263)
 [Tistory](https://lifere.tistory.com/)
 
 <!--
