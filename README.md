@@ -1,6 +1,6 @@
 ### Hi, Nice to meet you!👋
 
-[Github Page](https://i-sak.github.io/me)
+[Personal Web Page](https://i-sak.github.io/me)
 
 [Naver](https://blog.naver.com/isaac7263)
 
@@ -9,6 +9,9 @@
 ☎ tel. +82 10-7577-7263
 
 e-mail. isaac7263@naver.com
+
+
+<img src="https://img.shields.io/github/followers/i-sak?style=for-the-badge">
 
 <!--
 **i-sak/i-sak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
