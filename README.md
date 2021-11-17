@@ -13,6 +13,7 @@ e-mail. isaac7263@naver.com
 
 <img src="https://img.shields.io/github/followers/i-sak?style=for-the-badge">
 
+<img src="https://img.shields.io/static/v1?label=java&message=java&color=red">
 <!--
 **i-sak/i-sak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
