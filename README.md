@@ -11,7 +11,24 @@
 e-mail. isaac7263@naver.com
 
 
+
 <img src="https://img.shields.io/github/followers/i-sak?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/-html-blue">
+<img src="https://img.shields.io/badge/-css-blue">
+
+<img src="https://img.shields.io/badge/-c-red">
+<img src="https://img.shields.io/badge/-c++-red">
+<img src="https://img.shields.io/badge/-Javascript-red">
+<img src="https://img.shields.io/badge/-Java-red">
+<img src="https://img.shields.io/badge/-Python-red">
+
+<img src="https://img.shields.io/badge/-Spring-brightgreen">
+<img src="https://img.shields.io/badge/-SpringBoot-brightgreen">
+
+<img src="https://img.shields.io/badge/-mssql-yellow">
+<img src="https://img.shields.io/badge/-mariadb-yellow">
+
 
 <!-- <img src="https://img.shields.io/static/v1?label=java&message=java&color=red"> -->
 
