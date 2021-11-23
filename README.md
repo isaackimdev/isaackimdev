@@ -19,7 +19,7 @@ e-mail. isaac7263@naver.com
 
 <img src="https://img.shields.io/badge/-html-blue"> <img src="https://img.shields.io/badge/-css-blue">
 
-<img src="https://img.shields.io/badge/-c-red"> <img src="https://img.shields.io/badge/-c++-red"> <img src="https://img.shields.io/badge/-c#-red"> <img src="https://img.shields.io/badge/-Javascript-red"> <img src="https://img.shields.io/badge/-Java-red"> <img src="https://img.shields.io/badge/-Python-red">
+<img src="https://img.shields.io/badge/-c-red"> <img src="https://img.shields.io/badge/-c++-red"> <img src="https://img.shields.io/badge/-C＃-red"> <img src="https://img.shields.io/badge/-Javascript-red"> <img src="https://img.shields.io/badge/-Java-red"> <img src="https://img.shields.io/badge/-Python-red">
 
 <img src="https://img.shields.io/badge/-Spring-brightgreen"> <img src="https://img.shields.io/badge/-SpringBoot-brightgreen"> <img src="https://img.shields.io/badge/-jQuery-brightgreen"> <img src="https://img.shields.io/badge/-Vue-brightgreen"> <img src="https://img.shields.io/badge/-ajax-brightgreen"> <img src="https://img.shields.io/badge/-flask-brightgreen"> <img src="https://img.shields.io/badge/-nodejs-brightgreen">
 
