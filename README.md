@@ -2,9 +2,9 @@
 
 [Personal Web Page](https://i-sak.github.io/me)
 
-[Naver](https://blog.naver.com/isaac7263)
+[Naver Blog](https://blog.naver.com/isaac7263)
 
-[Tistory](https://lifere.tistory.com/)
+[Tistory Blog](https://lifere.tistory.com/)
 
 ☎ tel. +82 10-7577-7263
 
@@ -20,12 +20,16 @@ e-mail. isaac7263@naver.com
 데이터베이스의 PL/SQL 프로시저, 함수, 트리거 등 다양한 개발과
 백엔드의 Rest API, MVC 패턴 적용 개발 등을 하고 있습니다.
 
+<!--Language -->
 <img src="https://img.shields.io/badge/-c-red"> <img src="https://img.shields.io/badge/-c++-red"> <img src="https://img.shields.io/badge/-C＃-red"> <img src="https://img.shields.io/badge/-Javascript-red"> <img src="https://img.shields.io/badge/-Java-red"> <img src="https://img.shields.io/badge/-Python-red">
 
+<!-- Markup / style -->
 <img src="https://img.shields.io/badge/-html-blue"> <img src="https://img.shields.io/badge/-css-blue">
 
-<img src="https://img.shields.io/badge/-Spring-brightgreen"> <img src="https://img.shields.io/badge/-SpringBoot-brightgreen"> <img src="https://img.shields.io/badge/-jQuery-brightgreen"> <img src="https://img.shields.io/badge/-Vue-brightgreen"> <img src="https://img.shields.io/badge/-ajax-brightgreen"> <img src="https://img.shields.io/badge/-flask-brightgreen"> <img src="https://img.shields.io/badge/-nodejs-brightgreen"> <img src="https://img.shields.io/badge/-android-brightgreen"> 
+<!-- Framework -->
+<img src="https://img.shields.io/badge/-Spring-brightgreen"> <img src="https://img.shields.io/badge/-SpringBoot-brightgreen"> <img src="https://img.shields.io/badge/-jQuery-brightgreen"> <img src="https://img.shields.io/badge/-Vue-brightgreen"> <img src="https://img.shields.io/badge/-ajax-brightgreen"> <img src="https://img.shields.io/badge/-flask-brightgreen"> <img src="https://img.shields.io/badge/-nodejs-brightgreen"> <img src="https://img.shields.io/badge/-android-brightgreen"> <img src="https://img.shields.io/badge/-nestjs-brightgreen"> 
 
+<!-- Database -->
 <img src="https://img.shields.io/badge/-mssql-yellow"> <img src="https://img.shields.io/badge/-mariadb-yellow"> <img src="https://img.shields.io/badge/-oracle-yellow">
 
 
