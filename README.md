@@ -30,7 +30,7 @@ e-mail. isaac7263@naver.com
 <img src="https://img.shields.io/badge/-Spring-brightgreen"> <img src="https://img.shields.io/badge/-SpringBoot-brightgreen"> <img src="https://img.shields.io/badge/-jQuery-brightgreen"> <img src="https://img.shields.io/badge/-Vue-brightgreen"> <img src="https://img.shields.io/badge/-ajax-brightgreen"> <img src="https://img.shields.io/badge/-flask-brightgreen"> <img src="https://img.shields.io/badge/-nodejs-brightgreen"> <img src="https://img.shields.io/badge/-android-brightgreen"> <img src="https://img.shields.io/badge/-nestjs-brightgreen"> 
 
 <!-- Database -->
-<img src="https://img.shields.io/badge/-mssql-yellow"> <img src="https://img.shields.io/badge/-mariadb-yellow"> <img src="https://img.shields.io/badge/-oracle-yellow">
+<img src="https://img.shields.io/badge/-mssql-yellow"> <img src="https://img.shields.io/badge/-mariadb-yellow"> <img src="https://img.shields.io/badge/-oracle-yellow"> <img src="https://img.shields.io/badge/-mybatis-yellow">
 
 
 <!-- <img src="https://img.shields.io/static/v1?label=java&message=java&color=red"> -->
