@@ -22,15 +22,19 @@ e-mail. isaac7263@naver.com
 비즈니스 로직(Business Logic)을 개발하고 있습니다.
 
 <!--Language -->
+### Language
 <img src="https://img.shields.io/badge/-c-red"> <img src="https://img.shields.io/badge/-c++-red"> <img src="https://img.shields.io/badge/-C＃-red"> <img src="https://img.shields.io/badge/-Javascript-red"> <img src="https://img.shields.io/badge/-Java-red"> <img src="https://img.shields.io/badge/-Python-red">
 
 <!-- Markup / style -->
+### Markup / Casecading Style Sheet
 <img src="https://img.shields.io/badge/-html-blue"> <img src="https://img.shields.io/badge/-css-blue">
 
-<!-- Framework -->
+<!-- Framework / Library -->
+### Framework / Library
 <img src="https://img.shields.io/badge/-Spring-brightgreen"> <img src="https://img.shields.io/badge/-SpringBoot-brightgreen"> <img src="https://img.shields.io/badge/-jQuery-brightgreen"> <img src="https://img.shields.io/badge/-Vue-brightgreen"> <img src="https://img.shields.io/badge/-ajax-brightgreen"> <img src="https://img.shields.io/badge/-flask-brightgreen"> <img src="https://img.shields.io/badge/-nodejs-brightgreen"> <img src="https://img.shields.io/badge/-android-brightgreen"> <img src="https://img.shields.io/badge/-nestjs-brightgreen"> 
 
-<!-- Database -->
+<!-- Database / SQL -->
+### Database / SQL
 <img src="https://img.shields.io/badge/-mssql-yellow"> <img src="https://img.shields.io/badge/-mariadb-yellow"> <img src="https://img.shields.io/badge/-oracle-yellow"> <img src="https://img.shields.io/badge/-mybatis-yellow">
 
 
