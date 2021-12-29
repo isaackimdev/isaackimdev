@@ -1,6 +1,6 @@
 ### Hi, Nice to meet you!👋
 
-[Personal Web Page](https://i-sak.github.io/me)
+[My Homepage](https://i-sak.github.io/me)
 
 [Naver Blog](https://blog.naver.com/isaac7263)
 
