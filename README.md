@@ -15,10 +15,11 @@ e-mail. isaac7263@naver.com
 <img src="https://img.shields.io/github/followers/i-sak?style=for-the-badge">
 
 
-아래는 공부해보았던 기술들이지만 현재는 Java Spring과 mssql 기반의 데이터베이스 및 서버 개발을 주로 하고 있습니다.
+현재 Java, SpringFramework와 MSSQL을 사용하여 백엔드, 비즈니스 로직을 구현하고 있습니다.
 
-데이터베이스의 PL/SQL 프로시저, 함수, 트리거 등 다양한 개발과
-백엔드의 Rest API, MVC 패턴 적용 개발 등을 하고 있습니다.
+백엔드(Back-end) 서버 사이드에서는 MVC 패턴 기반의 Util 개발, REST API를 개발하고,
+데이터베이스(Database)의 PL/SQL을 활용해 프로시저(Procedure), 함수(Function), 트리거(Trigger) 등
+비즈니스 로직(Business Logic)을 개발하고 있습니다.
 
 <!--Language -->
 <img src="https://img.shields.io/badge/-c-red"> <img src="https://img.shields.io/badge/-c++-red"> <img src="https://img.shields.io/badge/-C＃-red"> <img src="https://img.shields.io/badge/-Javascript-red"> <img src="https://img.shields.io/badge/-Java-red"> <img src="https://img.shields.io/badge/-Python-red">
