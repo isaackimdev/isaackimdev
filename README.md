@@ -16,8 +16,8 @@ e-mail. isaac7263@naver.com
 
 현재 Java, SpringFramework와 MSSQL을 사용하여 백엔드, 비즈니스 로직을 구현하고 있습니다.
 
-백엔드(Back-end) 서버 사이드에서는 MVC 패턴 기반의 Util 개발, REST API를 개발하고,
-데이터베이스(Database)의 PL/SQL을 활용해 프로시저(Procedure), 함수(Function), 트리거(Trigger) 등
+백엔드(Back-end) 서버 사이드에서는 MVC 패턴을 사용해 기반을 이루고, Util 개발, REST API 개발,
+데이터베이스(Database)의 PL/SQL을 활용해 프로시저(Procedure), 함수(Function), 트리거(Trigger) 등을 활용한
 비즈니스 로직(Business Logic)을 개발하고 있습니다.
 
 <!--Language -->
