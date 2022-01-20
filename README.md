@@ -3,9 +3,9 @@
 
 [My Homepage](https://i-sak.github.io/me)
 
-[Blog1](https://blog.naver.com/isaac7263)
+[Naver Blog](https://blog.naver.com/isaac7263)
 
-[Blog2](https://lifere.tistory.com/)
+[Tistory Blog](https://lifere.tistory.com/)
 
 ☎ tel. +82 10-7577-7263
 e-mail. isaac7263@naver.com
