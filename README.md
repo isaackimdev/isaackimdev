@@ -10,10 +10,9 @@
 ☎ tel. +82 10-7577-7263
 e-mail. isaac7263@naver.com
 
-
 <img src="https://img.shields.io/github/followers/i-sak?style=for-the-badge">
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=i-sak)](https://github.com/anuraghazra/github-readme-stats)
+![I-sak's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-sak&show_icons=true&theme=radical)
 
 현재 Java, SpringFramework와 MSSQL을 사용하여 백엔드, 비즈니스 로직을 구현하고 있습니다.
 
