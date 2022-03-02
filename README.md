@@ -14,7 +14,7 @@ e-mail. isaac7263@naver.com
 
 ![I-sak's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-sak&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-sak&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-sak&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 현재 Java, SpringFramework와 MSSQL을 사용하여 백엔드, 비즈니스 로직을 구현하고 있습니다.
 
