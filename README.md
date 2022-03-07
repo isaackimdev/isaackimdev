@@ -16,6 +16,8 @@ e-mail. isaac7263@naver.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-sak&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 현재 회사에서는 Java, SpringFramework, MSSQL을 사용하여 백엔드 파트에서 주로 비즈니스 로직을 구현하고 있습니다.
 
 Spring Legacy
@@ -25,6 +27,10 @@ Spring Legacy
 
 Spring Boot
 회사 업무 외 스프링 부트도 공부를 하고 있습니다. mariadb, SpringBoot, Spring Data JPA를 연계해 RESTful API를 개발하고 있습니다.
+
+---
+
+# Experience
 
 <!--Language -->
 ### Language
