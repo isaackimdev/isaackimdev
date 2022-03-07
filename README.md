@@ -16,11 +16,15 @@ e-mail. isaac7263@naver.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-sak&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-현재 Java, SpringFramework와 MSSQL을 사용하여 백엔드, 비즈니스 로직을 구현하고 있습니다.
+현재 회사에서는 Java, SpringFramework, MSSQL을 사용하여 백엔드 파트에서 주로 비즈니스 로직을 구현하고 있습니다.
 
-백엔드(Back-end) 서버 사이드에서는 MVC 패턴을 사용해 기반을 이루고, Util 개발, REST API 개발,
+Spring Legacy
+백엔드(Back-end) 서버 사이드에서는 MVC 패턴을 사용해 기반을 이루고 관련 API를 개발하고 있습니다.
 데이터베이스(Database)의 PL/SQL을 활용해 프로시저(Procedure), 함수(Function), 트리거(Trigger) 등을 활용한
-비즈니스 로직(Business Logic)을 개발하고 있습니다.
+비즈니스 로직(Business Logic)을 개발하고 있습니다.  
+
+Spring Boot
+회사 업무 외 스프링 부트도 공부를 하고 있습니다. mariadb, SpringBoot, Spring Data JPA를 연계해 RESTful API를 개발하고 있습니다.
 
 <!--Language -->
 ### Language
