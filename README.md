@@ -18,6 +18,8 @@ e-mail. isaac7263@naver.com
 
 ---
 
+## About Me
+
 현재 회사에서는 Java, SpringFramework, MSSQL을 사용하여 백엔드 파트에서 주로 비즈니스 로직을 구현하고 있습니다.
 
 Spring Legacy
