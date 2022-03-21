@@ -20,15 +20,18 @@ e-mail. isaac7263@naver.com
 
 ## About Me
 
-현재 회사에서는 Java, SpringFramework, MSSQL을 사용하여 백엔드 파트에서 주로 비즈니스 로직을 구현하고 있습니다.
+현재 회사에서는 프로젝트 설계 & Java, SpringFramework, Mybatis, MSSQL을 사용하여 Back-end Developer로 활동하고 있습니다.
+주로 비즈니스 로직을 설계하고, 설계를 바탕으로 Business Login을 구현하고 있습니다.
 
-Spring Legacy
-백엔드(Back-end) 서버 사이드에서는 MVC 패턴을 사용해 기반을 이루고 관련 API를 개발하고 있습니다.
-데이터베이스(Database)의 PL/SQL을 활용해 프로시저(Procedure), 함수(Function), 트리거(Trigger) 등을 활용한
-비즈니스 로직(Business Logic)을 개발하고 있습니다.  
+회사에서는 현재 Spring Legacy 프로젝트로 ERP System을 개발 및 운영을 하고 있습니다.
+Database에서 Procedure 형태로 직접 Beusiness Login을 구현하기도 해서 PL/SQL을 작성하는 편입니다.
+필요에 따라서 Server Side에서 Java 언어로 Logic 작성, front-end 영역에서는 javascript로 Logic을 작성,
+Database에서는 Procedure, Scala Function, Trigger등 적절한 상황에 맞추어 작업하고 있습니다.
 
-Spring Boot
-회사 업무 외 스프링 부트도 공부를 하고 있습니다. mariadb, SpringBoot, Spring Data JPA를 연계해 RESTful API를 개발하고 있습니다.
+Side Project로 현재 다음과 같은 것을 추가로 더 공부하고 있습니다.
+- Back-end : Spring Boot RESTful API, Spring Data JPA Development
+- Database : mariadb
+- Front-end : Vue.js
 
 ---
 
