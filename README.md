@@ -20,7 +20,9 @@ e-mail. isaac7263@naver.com
 
 ---
 
-## About Me @i-sak
+## About Me
+
+:+1: :sparkles: :rocket: :octocat:
 
 현재 회사에서는 프로젝트 설계 & Java, SpringFramework, Mybatis, MSSQL을 사용하여 Back-end Developer로 활동하고 있습니다.
 주로 비즈니스 로직을 설계하고, 설계를 바탕으로 Business Login을 구현하고 있습니다.
