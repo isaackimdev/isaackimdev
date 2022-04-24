@@ -15,7 +15,6 @@ e-mail. isaac7263@naver.com
 <img src="https://img.shields.io/github/followers/i-sak?style=for-the-badge">
 
 ![I-sak's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-sak&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-sak&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
