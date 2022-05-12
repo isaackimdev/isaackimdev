@@ -11,7 +11,7 @@
 [Tistory Blog](https://lifere.tistory.com/)
 
 
-![I-sak's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-sak&show_icons=false&theme=radical&card_width=500&hide=issues&line_height=24&hide_rank=false)
+![I-sak's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-sak&show_icons=false&theme=radical&card_width=500&hide=issues&line_height=24&hide_rank=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-sak&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Experience
