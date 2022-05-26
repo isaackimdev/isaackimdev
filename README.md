@@ -2,17 +2,21 @@
 <p align='center'> Hi, Nice to meet you! 👋 </p>
 <p align="center">:+1: :sparkles: :rocket: :octocat:</p>
 
-[Portfolio](http://146.56.172.94:8080/) ~working
+<!-- [Portfolio](http://146.56.172.94:8080/) ~working -->
 
-[My Homepage](https://i-sak.github.io/me)
+<div align='center'>
 
-[Naver Blog](https://blog.naver.com/isaac7263)
-
-[Tistory Blog](https://lifere.tistory.com/)
-
+  [My Homepage](https://i-sak.github.io/me) | 
+  [Naver Blog](https://blog.naver.com/isaac7263) | 
+  [Tistory Blog](https://lifere.tistory.com/)
 
 ![I-sak's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-sak&show_icons=false&theme=radical&card_width=500&hide=issues&line_height=24&hide_rank=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-sak&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</div>
+
+
 
 ## Experience
 
