@@ -57,9 +57,12 @@
 #### Database / SQL / ORM, Mapper
 <p>
   <img src="https://img.shields.io/badge/-mssql-yellow">
+  <img src="https://img.shields.io/badge/-mysql-yellow">
   <img src="https://img.shields.io/badge/-mariadb-yellow">
   <img src="https://img.shields.io/badge/-oracle-yellow">
   <img src="https://img.shields.io/badge/-mybatis-yellow">
+  <img src="https://img.shields.io/badge/-jpa-yellow">
+  <img src="https://img.shields.io/badge/-hibernate-yellow">
 </p>
 
 <img src="https://img.shields.io/github/followers/i-sak?style=for-the-badge">
