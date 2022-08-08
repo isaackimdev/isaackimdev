@@ -16,7 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-sak&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### repository 감축중
-중간 단계의 그치는 repository보다 하나의 완성품이 더 좋은 영향력과 가치가 있다고 판단하여 많은 repository를 삭제하고 레포지토리의 커밋 수에 연연하지 않고 하나의 프로젝트를 하더라도 제대로 하기 위해 삭제하는 작업을 하고 있습니다. 제대로 된 프로젝트를 갖출 수 있는 경쟁력 있는 개발자가 되기 위해 노력하고 있습니다.
+중간 단계의 그치는 Repository보다 하나의 고도화된 Repository의 가치를 중요하게 생각하여, 중간 단계에 그치다고 생각하는 Repository는 줄여나가는 감축 작업을 하고 있습니다. Commit 수에 연연하지 않고, 완성형 프로젝트를 할 수 있도록 노력하고자 합니다. 경쟁력 있는 개발자가 되기 위해 노력하고 있습니다.
 
 </div>
 
