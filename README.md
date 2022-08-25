@@ -5,19 +5,14 @@
 
 <div align='center'>
 
-  [My Homepage](https://i-sak.github.io/me) | 
-  [Naver Blog](https://blog.naver.com/isaac7263) | 
-  [Tistory Blog](https://lifere.tistory.com/)
-  <!-- [GitHub Page with Jekyll 준비중](https://i-sak.github.io) -->
-
+  [Blog1](https://lifere.tistory.com/) | 
+  [Blog2](https://blog.naver.com/isaac7263) | 
+  [My Homepage](https://i-sak.github.io)
+  
   ![I-sak's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-sak&show_icons=false&theme=radical&card_width=500&hide=issues&line_height=24&hide_rank=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-sak&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-  ### repository 감축작업 진행중입니다.
-  중간 단계의 그치는 Repository보다 하나의 고도화된 Repository의 가치를 중요하게 생각하여, 중간 단계에 그치는 Repository는 과감히 삭제(백업)하고 있습니다. Commit 수에 연연하지 않고, 완성형 프로젝트를 할 수 있도록 경쟁력 있는 개발자가 되기 위해 노력하고 있습니다.
-
 </div>
-
 
 ### Experience
 <p>
