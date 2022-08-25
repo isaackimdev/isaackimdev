@@ -22,10 +22,10 @@
   <img src="https://img.shields.io/badge/-Javascript-red">
   <img src="https://img.shields.io/badge/-Java-red">
   <img src="https://img.shields.io/badge/-Python-red">
-  
+  <br>
   <img src="https://img.shields.io/badge/-html-blue">
   <img src="https://img.shields.io/badge/-css-blue">
-
+  <br>
   <img src="https://img.shields.io/badge/-Spring-brightgreen">
   <img src="https://img.shields.io/badge/-SpringBoot-brightgreen">
   <img src="https://img.shields.io/badge/-jQuery-brightgreen">
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/-nodejs-brightgreen">
   <img src="https://img.shields.io/badge/-android-brightgreen">
   <img src="https://img.shields.io/badge/-nestjs-brightgreen"> 
-
+  <br>
   <img src="https://img.shields.io/badge/-mssql-yellow">
   <img src="https://img.shields.io/badge/-mysql-yellow">
   <img src="https://img.shields.io/badge/-mariadb-yellow">
@@ -45,11 +45,6 @@
   <img src="https://img.shields.io/badge/-hibernate-yellow">
 </p>
 
-<img src="https://img.shields.io/github/followers/i-sak?style=for-the-badge">
-
-<h3>Contact me</h3>
-<p>☎ tel. +82 10-7577-7263</p>
-<p>e-mail. isaac7263@naver.com</p>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
 
