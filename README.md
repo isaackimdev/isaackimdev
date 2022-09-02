@@ -46,7 +46,6 @@ REPOSITORY 감축 작업을 진행하고 있습니다.
   <img src="https://img.shields.io/badge/-hibernate-yellow">
 </p>
 
-
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
 
 <!-- 7F7FD5 -->
