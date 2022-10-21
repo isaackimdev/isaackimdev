@@ -1,17 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=i-sak%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Isaac%20GitHub%20Profile&descAlignY=51&descAlign=62)
-<p align='center'> Hi, Nice to meet you! 👋 </p>
-<p align="center">:+1: :sparkles: :rocket: :octocat:</p>
-
+<p align='center'> Simple Is Best. </p>
 
 <div align='center'>
-
+  
   [Blog1](https://lifere.tistory.com/) | 
   [Blog2](https://blog.naver.com/isaac7263) | 
-  [My Homepage](https://i-sak.github.io)
+  [Page](https://i-sak.github.io)
 
 </div>
-
-
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
 
