@@ -3,9 +3,10 @@
 
 <div align='center'>
   
-  [Blog1](https://lifere.tistory.com/) | 
-  [Blog2](https://blog.naver.com/isaac7263) | 
-  [Page](https://i-sak.github.io)
+  [TECH BLOG](https://lifere.tistory.com/) |
+  [TECH + DAILY BLOG](https://blog.naver.com/isaac7263) |
+  [PAGE](https://i-sak.github.io) |
+  [BEOPLE](https://beople.link)
 
 </div>
 
