@@ -4,7 +4,7 @@
 <div align='center'>
   
   [BLOG1](https://lifere.tistory.com/) |
-  [TECH2](https://blog.naver.com/isaac7263) |
+  [BLOG2](https://blog.naver.com/isaac7263) |
   [BEOPLE](https://beople.link) |
   [PAGE](https://i-sak.github.io)
 
