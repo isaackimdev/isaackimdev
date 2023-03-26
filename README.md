@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=i-sak%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Isaac%20GitHub%20Profile&descAlignY=51&descAlign=62)
-<p align='center'> Simple Is Best. </p>
 
 <div align='center'>
   
