@@ -2,13 +2,10 @@
 
 <div align='center'>
   <a href="https://lifere.tistory.com">
-    <img src="https://img.shields.io/badge/BLOG1-%11F7DA43.svg?&style=for-the-badge&&logoColor=white"/>
+    <img src="https://img.shields.io/badge/tistory-%11F7DA43.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
   <a href="https://blog.naver.com/isaac7263">
-    <img src="https://img.shields.io/badge/BLOG2-%11F7DA43.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="https://i-sak.github.io">
-    <img src="https://img.shields.io/badge/...-%11F7DA43.svg?&style=for-the-badge&&logoColor=white"/>
+    <img src="https://img.shields.io/badge/naver-%11F7DA43.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
 </div>
 
