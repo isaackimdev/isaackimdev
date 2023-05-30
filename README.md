@@ -12,11 +12,11 @@
 </div>
 
 
-### latest Articles
+### Latest Articles
 - [Java File][1] : Java File, I/O, Input, Output, Stream, Write, Read
 - [Java Network][3] : Java Network, TCP, Socket, Chatting
 
-### news
+### News
 [Github blog][2]를 개설했습니다. Github blog는 천천히 어떤 글을 작성할지 고민하고 Posting할 계획입니다. 주로 tistory에 글을 올리니 tistory로 많이 놀러와주세요. :)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
