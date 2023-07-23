@@ -3,7 +3,7 @@
 ### Blog
 - [Tech Blog (Main)][1]
 - [Github Blog][2]
-- [초창기 블로그][3]
+- [Naver Blog(초창기 블로그)][3]
 
 ### Contact
 isaac7263@naver.com
