@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Isaac%20Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=developer&descAlign=68&descAlignY=55)
 
+
+
 ### Blog
 - [Tech Blog (Main)][1]
 - [Github Blog][2]
@@ -8,9 +10,9 @@
 ### Contact
 isaac7263@naver.com
 
-
-### News
-[Github blog][2]를 개설했습니다. Github blog는 천천히 어떤 글을 작성할지 고민하고 Posting할 계획입니다. 주로 tistory에 글을 올리니 tistory로 많이 놀러와주세요. :)
+### tool
+[Git](https://git-scm.com/),
+[vscode](https://code.visualstudio.com/)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
 
