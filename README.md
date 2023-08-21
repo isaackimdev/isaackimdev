@@ -1,3 +1,7 @@
+### contact me
+isaac7263@naver.com
+
+<!-- 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Isaac%20Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=developer&descAlign=68&descAlignY=55)
 
 
@@ -19,6 +23,8 @@ isaac7263@naver.com
 [1]: https://lifere.tistory.com
 [2]: https://i-sak.github.io
 [3]: https://blog.naver.com/isaac7263
+
+-->
 
 <!-- 7F7FD5 -->
 <!-- <img src="https://img.shields.io/static/v1?label=java&message=java&color=red"> -->
