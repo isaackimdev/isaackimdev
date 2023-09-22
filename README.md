@@ -1,11 +1,9 @@
-### contact me
-isaac7263@naver.com
+### 👋 Hi. Welcome to Isaackimdev's Github!
+- contact : isaac7263@naver.com
+
 
 <!-- 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Isaac%20Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=developer&descAlign=68&descAlignY=55)
-
-
-
 ### Blog
 - [Tech Blog (Main)][1]
 - [Github Blog][2]
