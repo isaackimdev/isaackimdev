@@ -1,4 +1,9 @@
 ### 👋 Hi. Welcome to Isaackimdev's Github!
+
+설계자 & 개발자, 김이삭입니다.
+
+### Info
+- skills : Java, SQL, Javascript
 - contact : isaac7263@naver.com
 
 
