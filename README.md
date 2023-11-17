@@ -1,9 +1,12 @@
 ### 👋 Hi. Welcome to Isaackimdev's Github!
 
-설계자 & 개발자, 김이삭입니다.
+Customer satisfaction is my top priority, and I analyze, design, and develop based on requirements.
 
-### Info
-- skills : Java, SQL, Javascript
+`I am Isaac Kim, a designer & developer. (설계자 & 개발자)`
+
+### My-Information
+- Main skills : Java, Spring, SQL, Javascript, mybatis, jpa
+- Sub skills : jpa, react/next.js, python, c/c++/c#, typescript, flutter/dart, android
 - contact : isaac7263@naver.com
 
 
