@@ -8,9 +8,6 @@ I am Isaac Kim, a designer & developer. (설계자 & 개발자)
 - skills : Java, Spring, SQL, Javascript, mybatis, jpa
 - contact : isaac7263@naver.com
 
-다양한 기술에 대해서도 공부하는 것을 좋아합니다. 
-- sub skills : c/c++/c#, python, typescript, react/vue/next.js, docker, flutter/dart, android
-
 
 <!-- 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Isaac%20Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=developer&descAlign=68&descAlignY=55)
