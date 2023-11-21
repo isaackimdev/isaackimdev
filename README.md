@@ -5,7 +5,7 @@ Customer satisfaction is my top priority, and I analyze, design, and develop bas
 I am Isaac Kim, a designer & developer. (설계자 & 개발자)
 
 ### My-Information
-- skills : Java, Spring, SQL, Javascript, mybatis, jpa
+- skills : Java, Spring, SQL, Javascript
 - contact : isaac7263@naver.com
 
 
