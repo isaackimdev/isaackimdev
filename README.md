@@ -1,8 +1,8 @@
 ### 👋 Hi. Welcome to Isaackimdev's Github!
 
-Customer satisfaction is my top priority, and I analyze, design, and develop based on requirements.
+I am Isaac Kim, HR System a designer & developer.
 
-I am Isaac Kim, a designer & developer. (설계자 & 개발자)
+favorite word : Deep Dive, Grit
 
 ### My-Information
 - skills : Java, Spring, SQL, Javascript
