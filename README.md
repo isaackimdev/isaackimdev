@@ -1,8 +1,8 @@
 ### 👋 Hi. Welcome to Isaackimdev's Github!
 
-I am Isaac Kim, HR System a designer & developer.
+I am Isaac Kim. I am a designer and developer.
 
-favorite word : Deep Dive, Grit
+I have a grit
 
 ### My-Information
 - skills : Java, Spring, SQL, Javascript
