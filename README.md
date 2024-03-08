@@ -5,8 +5,9 @@ I am Isaac Kim. I am a designer and developer.
 I have a grit
 
 ### My-Information
-- skills : Java, Spring, SQL, Javascript
-- contact : isaac7263@naver.com
+- skills | Java, Spring, SQL, Javascript
+- contact | isaac7263@naver.com
+- Blog | https://lifere.tistory.com
 
 
 <!-- 
