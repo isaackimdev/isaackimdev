@@ -1,8 +1,6 @@
 ### 👋 Hi. Welcome to Isaackimdev's Github!
 
-I am Isaac Kim. I am a designer and developer.
-
-I have a grit
+Nice to meet you!
 
 ### My-Information
 - skills | Java, Spring, SQL, Javascript
