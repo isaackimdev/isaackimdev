@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+[blog](https://lifere.tistory.com)
+- contact | isaac7263@naver.com
+
+### Side Project
+- [TalesWeaver Character Selector](https://tales-selector.vercel.app) (2024.10.03)
+
 <!--
 **isaackimdev/isaackimdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
