@@ -15,7 +15,7 @@ Welcom to my Github profile! I'm a passionate developer who loves to build thing
 --- 
 
 ## 📂 Projects 
-### Projects (Design | Devlopment | Java/Spring, MS-SQL etc. | Full-stack | In Sajo Systems Co.)
+### Projects (Design | Devlopment | Java/Spring, MS-SQL etc. | Full-stack)
 - Seafarer employee salary settlement system : 2023.07~
 - 2024 Sajo Group Year-end Tax Adjustment System Development : 2024.11~
     - Sajo Group 14 Companies, About 50~60 business sites
