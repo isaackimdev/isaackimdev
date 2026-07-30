@@ -1,6 +1,6 @@
 ## Isaac Kim
 
-Product Engineer
+Backend Software Engineer
 
 Building reliable systems.
 
